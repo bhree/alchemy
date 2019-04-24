@@ -2,5 +2,6 @@ default
 moretrees
 flowers
 aliveai_folk
+mobs
 nssm
 dmobs
