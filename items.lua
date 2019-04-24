@@ -54,6 +54,7 @@ alchemy.discoveries = {
 	[18] = {item = "default:diamond", cost = 10000},
 	[19] = {item = "default:obsidian", cost = 15000},
 	[20] = {item = "moreores:mithril_ingot", cost = 20000},
+	[21] = {item = "aliveai_folk:folk17_spawner", cost = 50000},
 }
 
 alchemy.essence_values = {};
