@@ -28,7 +28,8 @@ alchemy.items = {
 ["default:dirt"] = 9,
 ["default:gravel"] = 15,
 ["default:sand"] = 12,
-["default:coal_lump"] = 12
+["default:coal_lump"] = 12,
+["space:moon_stone"] = 25
 }
 
 -- discovery levels: sequence of items player can discover and cost to do so
